@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="App">
-      <legend>Form.jsx</legend>
+      
       <fieldset>
         <Form
           boxDetails={boxDetails}
